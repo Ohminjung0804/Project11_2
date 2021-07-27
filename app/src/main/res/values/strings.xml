@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Project11_2</string>
+    <string name="title_1">신과 함께</string>
+    <string name="title_2">부산행</string>
+    <string name="title_3">블랙 위도우</string>
+    <string name="title_4">극한직업</string>
+    <string name="title_5">엑시트</string>
+    <string name="title_6">해리포터</string>
+    <string name="title_7">기생충</string>
+    <string name="title_8">트루먼쇼</string>
+    <string name="title_9">타이타닉</string>
+    <string name="title_10">라라랜드</string>
 </resources>
